@@ -1,2 +1,2 @@
 # The-Machine-Learning-Workshop
-Added code files included in this course
+Added all code files used in this course.
